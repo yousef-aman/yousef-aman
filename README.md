@@ -18,8 +18,8 @@ I build web applications end-to-end, from database design to polished front-end 
 PHP, Laravel, Vue.js, JavaScript/TypeScript, MySQL, Git, Docker
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yousef-aman&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-aman&layout=compact&hide_border=true" width="48%" />
+![GitHub followers](https://img.shields.io/github/followers/yousef-aman?style=for-the-badge&color=6366F1)
+![GitHub stars](https://img.shields.io/github/stars/yousef-aman?style=for-the-badge&color=818CF8)
 
 ### Get in touch
 [X (@YousefStack)](https://x.com/YousefStack) - [Email](mailto:superyousef1999@gmail.com) - [WhatsApp](https://wa.me/967776282770)
